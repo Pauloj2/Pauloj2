@@ -8,9 +8,3 @@
 ## Email para contato 
 (rodriguespaulojunior232@gmail.com)
 
-![Snake animation](https://github.com/Pauloj2/Pauloj2/blod/output/github-contribution-grid-snake.svg)
-
-
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Pauloj2&repo=Pauloj2&theme=react)](https://github.com/Pauloj2/Pauloj2)
-
