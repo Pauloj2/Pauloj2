@@ -8,7 +8,3 @@
 ## Email para contato 
 (rodriguespaulojunior232@gmail.com)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Pauloj2/Pauloj2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Pauloj2/Pauloj2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-![](https://komarev.com/ghpvc/?username=Pauloj2)
