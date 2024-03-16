@@ -30,7 +30,7 @@
 </div><br>
 
 ## *Sobre mim*
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="right" alt="Coding" width="400" src=" https://github.com/Pauloj2/Pauloj2/assets/144707609/1c053419-7483-4e94-b43b-3671ba518f6a>
 
 - 👨‍🎓 Atualmente estou cursando **ADS-IFTM**
 
