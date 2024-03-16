@@ -8,7 +8,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulo_junior_rodrigues_?igshid=NzZlODBkYWE4Ng==)
 
-# ![ cobra gif ] ( https:// github. com/Pauloj2/ Pauloj2/blob/ output/ github-contribution-grid- cobra. gif )
+![snake gif](https://github.com/Pauloj2/Pauloj2/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
