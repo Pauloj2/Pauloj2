@@ -8,7 +8,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulo_junior_rodrigues_?igshid=NzZlODBkYWE4Ng==)
 
-# ![snake gif](https://github.com/Pauloj2/Pauloj2/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Pauloj2/pauloj2/output/snake.svg" alt="Snake animation" />
 
   </p> 
 </div>
