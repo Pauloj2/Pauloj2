@@ -1,34 +1,54 @@
-name: Generate snake animation
+# GitHub Action para gerar um gráfico de contribuição com uma cobra comendo suas contribuições.
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+# ![gif de cobra](https://github.com/seu-nome-de-usuário/seu-nome-de-usuário/blob/output/github-contribution-grid-snake.gif)
 
-  workflow_dispatch:
+nome : Gerar Cobra
 
-  push:
-    branches:
-    - master
+# Controla quando a ação será executada.
+sobre :
+  agendar :
+      # a cada 12 horas
+    -cron : " 0 */12 * * * "
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+  # Este comando nos permite executar a ação automaticamente na guia Ações.
+  fluxo de trabalho_dispatch :
 
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+  # Execute também em cada push no branch master
+  empurrar :
+    galhos :
+    - principal
 
+# A sequência de execuções neste fluxo de trabalho:
+empregos :
+  # Este fluxo de trabalho contém um único trabalho chamado "build"
+  construir :
+    # O tipo de executor em que o trabalho será executado
+    executado : ubuntu-mais recente
 
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # As etapas representam uma sequência de tarefas que serão executadas como parte do trabalho
+    passos :
+      - nome : repositório clone
+        usa : ações/checkout@v3
+
+      - name : Gere os arquivos cobra em './dist/'
+        usos : Platane/snk@v3
+        id : cobra-gif
+        com :
+          github_user_name : ${{github.repository_owner}}
+          saídas : |     
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg
+        ambiente :
+           GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
+
+      - nome : Mostrar status de construção
+        executar : status do git
+
+      - name : envia novos arquivos para a ramificação de saída
+        usos : crazy-max/ghaction-github-pages@v3.1.0
+        com :
+          target_branch : saída
+          build_dir : dist
+          commit_message : Atualizar animações de cobra
+        ambiente :
+          GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
