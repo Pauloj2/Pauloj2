@@ -10,9 +10,6 @@
 
 ![snake gif](https://github.com/Pauloj2/Pauloj2/blob/output/github-contribution-grid-snake.gif)
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png">
-</h3>
 
   </p> 
 </div>
