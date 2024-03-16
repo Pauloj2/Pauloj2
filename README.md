@@ -7,6 +7,8 @@
 <div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulo_junior_rodrigues_?igshid=NzZlODBkYWE4Ng==)
+## Email para contato 
+(rodriguespaulojunior232@gmail.com)
 
 # ![snake gif](https://github.com/Pauloj2/Pauloj2/blob/output/github-contribution-grid-snake.gif)
 
@@ -14,8 +16,6 @@
 
 <![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pauloj2&show_icons=true&theme=dracula)>
 
-## Email para contato 
-(rodriguespaulojunior232@gmail.com)
 
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
