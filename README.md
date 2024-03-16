@@ -2,7 +2,7 @@
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá!+👋;+Sou+Paulo+Junior!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá!+👋;+Meu+nome+é+Paulo+Junior!)](https://git.io/typing-svg)
  
 <div>
 
@@ -28,6 +28,20 @@
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
 </div><br>
-## Email para contato (rodriguespaulojunior232@gmail.com)
+
+## <picture><img src = "https://github.com/Pauloj2/Pauloj2/blob/main/about_me.gif" width = 50px></picture> *Sobre mim*
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
+- 👨‍🎓 Atualmente estou cursando **ADS-IFTM**
+
+- 🌱 Quero melhorar as vidas das pessoas com meu
+      trabalho.
+  
+- 📫 Como entrar em contato comigo
+    rodriguespaulojunior232@gmail.com
+
+- ⚡Curiosidade:  **Admirador da Arqueologia
+
+- <!-- color=nord_dark -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
