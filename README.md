@@ -29,7 +29,7 @@
 
 </div><br>
 
-## <picture><img src = "https://github.com/Pauloj2/Pauloj2/blob/main/about_me.gif" width = 50px></picture> *Sobre mim*
+## *Sobre mim*
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 - 👨‍🎓 Atualmente estou cursando **ADS-IFTM**
@@ -41,7 +41,5 @@
     rodriguespaulojunior232@gmail.com
 
 - ⚡Curiosidade:  **Admirador da Arqueologia
-
-- <!-- color=nord_dark -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
