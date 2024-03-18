@@ -39,6 +39,6 @@
 - 📫 Como entrar em contato comigo
     rodriguespaulojunior232@gmail.com
 
-- ⚡Curiosidade:  **Admirador da Arqueologia
+- ⚡Curiosidade:  **Admirador da Arqueologia**
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
