@@ -2,18 +2,16 @@
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá!+👋;+Meu+nome+é+Paulo+Junior!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá!+ Bem+vindo+ao+meu+perfil+no+github!👋;+Meu+nome+é+Paulo+Junior!)](https://git.io/typing-svg)
  
 <div>
-## Bem vindo ao meu perfil no github! <img src="https://media.giphy.com/media/H2zjDfFXWTCSU8LxeB/giphy.gif?cid=ecf05e47oyn9ib20obtrvmd89d1lo2hg3yfcueahsdzjjvt6&rid=giphy.gif&ct=s" align="rigt" width="40" height="40">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulo_junior_rodrigues_?igshid=NzZlODBkYWE4Ng==)
 
 
 ![snake gif](https://github.com/Pauloj2/Pauloj2/blob/output/github-contribution-grid-snake.gif)
-
-
   </p> 
+  
 </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pauloj2&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
