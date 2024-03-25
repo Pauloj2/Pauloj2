@@ -8,6 +8,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulo_junior_rodrigues_?igshid=NzZlODBkYWE4Ng==)
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1NmxsaXUzc2x4dDZ0dDV6eGxiampkN2t4bTBjNHZiZ3ZtZnh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width="250" height="250">
+
 ![snake gif](https://github.com/Pauloj2/Pauloj2/blob/output/github-contribution-grid-snake.gif)
 
 
