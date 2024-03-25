@@ -1,6 +1,11 @@
 <div align="center" >
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
+<!-- Matrix Gif Here -->
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
+<!-- Greet Line Comes Here -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá!+Bem+vindo+ao+meu+perfil!;+Meu+nome+é+Paulo+Junior!)](https://git.io/typing-svg)
   </b>
