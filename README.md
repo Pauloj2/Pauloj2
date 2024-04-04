@@ -33,10 +33,9 @@
 
 </div><br>
 
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="filter: hue-rotate(135deg);">
-</h3>
+<!-- Green Line -->
+<h3 align="center">Green Line</h3>
+<hr style="border-top: 2px solid green; width: 50%;">
 
 ## *Sobre mim*
 
