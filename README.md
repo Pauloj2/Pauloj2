@@ -33,7 +33,6 @@
 
 </div><br>
 
-<!-- Green Line from GitHub -->
 <h3 align="center">Green Line from GitHub</h3>
 <hr style="border-top: 2px solid green; width: 50%;">
 
