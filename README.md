@@ -33,10 +33,9 @@
 
 </div><br>
 
-<!-- Green Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png">
-</h3>
+<!-- Green Line from GitHub -->
+<h3 align="center">Green Line from GitHub</h3>
+<hr style="border-top: 2px solid green; width: 50%;">
 
 ## *Sobre mim*
 
