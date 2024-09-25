@@ -23,6 +23,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pauloj2&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
     
 </div>
+<div  align="center">
+  <a href="https://github.com/Pauloj2/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pauloj2&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/Pauloj2/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniferreira&langs_count=8&layout=compact&theme=radical" />
+  </a>
+</div>
   
  </details>
  
