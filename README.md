@@ -47,6 +47,8 @@
 
 - ⚡Curiosidade:  **Admirador da Arqueologia**
   
+</div><br>
+  
   ![](https://komarev.com/ghpvc/?username=Pauloj2)
 
 
