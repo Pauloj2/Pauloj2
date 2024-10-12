@@ -1,15 +1,16 @@
 <div align="center" >
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
-<!-- Matrix Gif Here -->
+
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<!-- Greet Line Comes Here -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá!+Bem+vindo+ao+meu+perfil!;+Meu+nome+é+Paulo+Junior!" alt="Typing SVG" style="margin-top: 20px;">
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá!+Bem+vindo+ao+meu+perfil!;+Meu+nome+é+Paulo+Junior!)](https://git.io/typing-svg)
   </b>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="display: inline-block; margin-top: 5px;">
+   <img src="https://github.com/user-attachments/assets/daeb8b02-64b8-46e5-9150-d1ad912c31db" align="right" width="250" height="250">
 <div>
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
