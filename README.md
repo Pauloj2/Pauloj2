@@ -5,13 +5,16 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá!+Bem+vindo+ao+meu+perfil!;+Meu+nome+é+Paulo+Junior!" alt="Typing SVG" style="margin-top: 20px;">
-</a>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Texto animado centralizado à esquerda -->
+  <a href="https://git.io/typing-svg" style="flex: 1; text-align: center;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá!+Bem+vindo+ao+meu+perfil!;+Meu+nome+é+Paulo+Junior!" alt="Typing SVG">
+  </a>
 
-  </b>
-   <img src="https://github.com/user-attachments/assets/daeb8b02-64b8-46e5-9150-d1ad912c31db" align="right" width="250" height="250">
-<div>
+  <!-- Imagem à direita -->
+  <img src="https://github.com/user-attachments/assets/daeb8b02-64b8-46e5-9150-d1ad912c31db" alt="Imagem" width="250" height="250" style="margin-left: 20px;">
+</div>
+
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
