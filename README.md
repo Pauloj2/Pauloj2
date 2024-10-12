@@ -12,7 +12,7 @@
   </a>
 
   <!-- Imagem à direita -->
-  <img src="https://github.com/user-attachments/assets/daeb8b02-64b8-46e5-9150-d1ad912c31db" alt="Imagem" width="250" height="250" style="margin-left: 20px;">
+  <img src="https://github.com/user-attachments/assets/7db1ee55-212d-4fc2-ae23-3246d4122237" alt="Imagem" width="250" height="250" style="margin-left: 20px;">
 </div>
 
 
