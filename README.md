@@ -12,8 +12,8 @@
   </a>
 
   <!-- Imagem à direita -->
-  <img src="https://github.com/user-attachments/assets/7db1ee55-212d-4fc2-ae23-3246d4122237" alt="Imagem" width="250" height="250" style="margin-left: 20px;">
-</div>
+ 
+
 
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
@@ -35,6 +35,9 @@
 
 </div><br>
 
+</div>
+<div> 
+ 
 ## *Sobre mim*
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1NmxsaXUzc2x4dDZ0dDV6eGxiampkN2t4bTBjNHZiZ3ZtZnh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width="250" height="250">
