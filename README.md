@@ -1,63 +1,85 @@
-<div align="center" >
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
+  
+  # 👋 Bem-vindo ao meu perfil! | Welcome to my profile!
+  
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+</div>
 
+<br>
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+## 🚀 Sobre Mim | About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- Texto animado centralizado à esquerda -->
-  <a href="https://git.io/typing-svg" style="flex: 1; text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá!+Bem+vindo+ao+meu+perfil!;+Meu+nome+é+Paulo+Junior!" alt="Typing SVG">
-  </a>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1NmxsaXUzc2x4dDZ0dDV6eGxiampkN2t4bTBjNHZiZ3ZtZnh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width="250" height="250" alt="Coding Animation">
 
-  <!-- Imagem à direita -->
- 
+🎓 **Formação Acadêmica | Academic Background**
+- Cursando **Análise e Desenvolvimento de Sistemas (ADS)** no **IFTM**
+- Currently pursuing **Systems Analysis and Development (ADS)** at **IFTM**
 
+💡 **Objetivo | Goal**
+- Contribuir para a melhoria da qualidade de vida das pessoas através da tecnologia e soluções bem desenvolvidas
+- To contribute to improving people's quality of life through technology and well-designed solutions
 
+🔍 **Interesses | Interests**
+- Desenvolvimento de Software | Software Development
+- Resolução de Problemas | Problem Solving
+- Aprendizado Contínuo | Continuous Learning
 
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+<br clear="right"/>
 
-  </p> 
+---
+
+## 🛠️ Tecnologias & Ferramentas | Technologies & Tools
+
+<div align="center">
+  
+  ### Linguagens de Programação | Programming Languages
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  
+  ### Front-end
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+  ### Banco de Dados | Database
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
 </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pauloj2&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pauloj2&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pauloj2&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+
+---
+
+## 📫 Contato | Contact
+
+<div align="center">
   
- </details>
- 
-  </a>
-</p>
-
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
-
-</div><br>
-
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulojuniorrodrigues57@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulo_junior_rodrigues_?igshid=NzZlODBkYWE4Ng==)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-junior-rodrigues-9955672a2)
+  
+  **📧 Email:** paulojuniorrodrigues57@gmail.com
+  
 </div>
-<div> 
- 
-## *Sobre mim*
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1NmxsaXUzc2x4dDZ0dDV6eGxiampkN2t4bTBjNHZiZ3ZtZnh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width="250" height="250">
+---
 
-- 👨‍🎓 Atualmente estou cursando **ADS-IFTM**
+## 💭 Frase Motivacional | Motivational Quote
 
-- 🌱 Quero melhorar as vidas das pessoas com meu
-      trabalho.
+<div align="center">
   
-- 📫 Como entrar em contato comigo
-    paulojuniorrodrigues57@gmail.com
+  _"A tecnologia move o mundo, mas são as pessoas que dão sentido a ela."_
   
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulo_junior_rodrigues_?igshid=NzZlODBkYWE4Ng==)
-
-- ⚡Curiosidade:  **Admirador da Arqueologia**
+  _"Technology moves the world, but it's people who give it meaning."_
   
-</div><br>
+</div>
+
+---
+
+<div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=Pauloj2)
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
-
+  ### 👍 Obrigado pela visita! | Thanks for visiting!
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+  
+</div>
