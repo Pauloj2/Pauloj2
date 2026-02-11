@@ -12,15 +12,15 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1NmxsaXUzc2x4dDZ0dDV6eGxiampkN2t4bTBjNHZiZ3ZtZnh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width="250" height="250" alt="Coding Animation">
 
-🎓 **Formação Acadêmica | Academic Background**
+**🎓 Formação Acadêmica | Academic Background**
 - Cursando **Análise e Desenvolvimento de Sistemas (ADS)** no **IFTM**
 - Currently pursuing **Systems Analysis and Development (ADS)** at **IFTM**
 
-💡 **Objetivo | Goal**
+**💡 Objetivo | Goal**
 - Contribuir para a melhoria da qualidade de vida das pessoas através da tecnologia e soluções bem desenvolvidas
 - To contribute to improving people's quality of life through technology and well-designed solutions
 
-🔍 **Interesses | Interests**
+**🔍 Interesses | Interests**
 - Desenvolvimento de Software | Software Development
 - Resolução de Problemas | Problem Solving
 - Aprendizado Contínuo | Continuous Learning
@@ -45,6 +45,21 @@
   
   ### Banco de Dados | Database
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  
+</div>
+
+---
+
+## 📚 Aprendendo Atualmente | Currently Learning
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Learning" width="400">
+  
+  ### 🔥 Foco Atual | Current Focus
+  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   
 </div>
 
